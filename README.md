@@ -2,4 +2,4 @@
 
 
 
-- 🔭 Checkout me on [navaneethkt.me](https://navaneethkt.me) | [twitter](https://twitter.com/twitter)
+- 🔭 Checkout me on [navan0.github.io](https://navan0.github.io) | [twitter](https://twitter.com/twitter)
