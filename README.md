@@ -2,8 +2,19 @@
 
 
 
-- 🔭 Checkout me on [navan0.xyz](http://navan0.xyz) | [twitter](https://twitter.com/twitter)
+[navan0.xyz](http://navan0.xyz) | [twitter](https://twitter.com/twitter)
 
+
+ 
+
+
+</details>
+
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG C# v1.6.1.0
 
@@ -22,3 +33,8 @@ jUES4nVKJrGkmm6isdHAyyjME8Fr7mRYtszRzkUOQYqgHweYmpWZtKx9k1Zys4oZ
 rg==
 =XQaa
 -----END PGP PUBLIC KEY BLOCK-----
+
+```
+</details>
+
+
